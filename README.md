@@ -2,6 +2,11 @@
 
 The aims of this project is to develop a task-based dialogue system capable of doing intent detection and slot filling task which are important problem for virtual assistant system. The proposed system for this project consist of three main components: Shared Encoder, Cross Attention Module, and Decoder. 
 
+Proposed Architecture:
+
+![image](https://github.com/ckc0702/P05_Task_based_dialogue_system/assets/59757087/a4e2d026-e1a6-4e57-bf68-9fcb18bd3818)
+
+
 1. Shared Encoder
 - Pre-trained BERT (transfer learning - word embedding)
 - Convolutional Layer (focus local semantics between words)
